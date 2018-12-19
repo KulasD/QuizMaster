@@ -1,0 +1,23 @@
+[
+  {
+    "nick": "Adam",
+    "score": 10,
+    "total": 50,
+    "type": "React-native",
+    "date": "2018-11-29"
+  },
+  {
+    "nick": "Krzysztof",
+    "score": 40,
+    "total": 50,
+    "type": "React-native",
+    "date": "2018-11-29"
+  },
+  {
+    "nick": "Daniel",
+    "score": 44,
+    "total": 50,
+    "type": "React-native",
+    "date": "2018-11-28"
+  },
+]
